@@ -1,4 +1,4 @@
-body { font-family: -apple-system-ui-serif, ui-serif, 'Georgia', serif; font-size: 120%; background-color: #ffffff; color: #000000; max-width: 78ch; line-height: 1.4; margin: 0 auto; padding: 2rem; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; }
+body { font-family: -apple-system-ui-serif, ui-serif, 'Georgia', serif; font-size: 120%; background-color: #ffffff; color: #000000; max-width: 60ch; line-height: 1.4; margin: 0 auto; padding: 2rem; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; }
 p { text-indent: 1ch; margin: 0; margin-top: .4rem; margin-bottom: .4rem; }
 h1,h2,h3,h4,h5,h6 { font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif; margin: 0 }
 a { color: #404040 }
