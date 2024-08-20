@@ -1,7 +1,7 @@
 ---
-title: Against Ordinary Language: The Language of the Body
+title: The Language of the Body
 author: Kathy Acker
-date: 1992
+date: 2024-08-19
 ---
 
 I have now been bodybuilding for ten years, seriously for almost five years. During the past few years, I have been trying to write about bodybuilding. Having failed time and time again, upon being offered the opportunity to write this essay, I made the following plan: I would attend the gym as usual. Immediately after each workout, I would describe all I had just experienced, thought and done. Such diary descriptions would provide the raw material.
