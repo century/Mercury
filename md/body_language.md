@@ -48,21 +48,25 @@ In another of his books, Elias Canetti begins talking from and about that geogra
 
 > A marvelously luminous, viscid substance is left behind in me, defying words...
 > A dream: a man who unlearns the world’s languages until nowhere on earth does he understand what people are saying.
-> Being in Marrakesh is Canetti’s dream made actual. There are languages here, he says, but I understand none of them. The closer I am moving toward foreignness, into strangeness, toward understanding foreignness and strangeness, the more I am losing my own language. The small loss of language occurs when I journey to and into my own body. Is my body a foreign land to me? What is this picture of “my body” and “I”? For years, I said in the beginning of this essay, I have wanted to describe bodybuilding; whenever I tried to do so, ordinary language fled from me.
-> “Man,” Heidegger says, “is the strangest.” Why? Because everywhere he or she belongs to being or to strangeness or chaos, and yet everywhere he or she attempts to carve a path through chaos:
+
+Being in Marrakesh is Canetti’s dream made actual. There are languages here, he says, but I understand none of them. The closer I am moving toward foreignness, into strangeness, toward understanding foreignness and strangeness, the more I am losing my own language. The small loss of language occurs when I journey to and into my own body. Is my body a foreign land to me? What is this picture of “my body” and “I”? For years, I said in the beginning of this essay, I have wanted to describe bodybuilding; whenever I tried to do so, ordinary language fled from me.
+
+“Man,” Heidegger says, “is the strangest.” Why? Because everywhere he or she belongs to being or to strangeness or chaos, and yet everywhere he or she attempts to carve a path through chaos:
+
 > Everywhere man makes himself a path; he ventures into all realms of the essent, of the overpowering power, and in so doing he is flung out of all paths.
-> The physical or material, that which is, is constantly and unpredictably changing: it is chaotic. This chaos twines around death. For it is death that rejects all of our paths, all of our meanings.
-> Whenever anyone body builds, he or she is always trying to understand and control the physical in the face of this death. No wonder bodybuilding is centered around failure.
-> The antithesis between meaning and essence has often been noted. Wittgenstein at the end of the Tractatus:
-> The sense of the world must lie outside the world. In the world everything is as it is, and everything happens as it does happen—in it no values exist, and if they did, they’d have no value. For all that happens and is the case is accidental.
-> If ordinary language or meanings lie outside essence, what is the position of that language game which I have named the language of the body? For bodybuilding (a language of the body) rejects ordinary language and yet itself constitutes a language, a method for understanding and controlling the physical which in this case is also the self.
-> I can now directly talk about bodybuilding. (As if speech is ever direct.)
-> The language game named the language of the body is not arbitrary. When a bodybuilder is counting, he or she is counting his or her own breath.
-> Canetti speaks of the beggars of Marrakesh who possess a similar and even simpler language game: they repeat the name of God.
-> In ordinary language, meaning is contextual. Whereas the cry of the beggar means nothing other than what it is; in the cry of the beggar, the impossible (as the Wittgenstein of the Tractatus and Heidegger see it) occurs in that meaning and breath become one.
-> Here is the language of the body; here, perhaps, is the reason why bodybuilders experience bodybuilding as a form of meditation.
-> “I understood the seduction there is in a life that reduces everything to the simplest kind of repetition,” Canetti says. A life in which meaning and essence no longer oppose each other. A life of meditation.
-> “I understood what those blind beggars really are: the saints of repetition...”
+
+The physical or material, that which is, is constantly and unpredictably changing: it is chaotic. This chaos twines around death. For it is death that rejects all of our paths, all of our meanings.
+Whenever anyone body builds, he or she is always trying to understand and control the physical in the face of this death. No wonder bodybuilding is centered around failure.
+The antithesis between meaning and essence has often been noted. Wittgenstein at the end of the Tractatus:
+The sense of the world must lie outside the world. In the world everything is as it is, and everything happens as it does happen—in it no values exist, and if they did, they’d have no value. For all that happens and is the case is accidental.
+If ordinary language or meanings lie outside essence, what is the position of that language game which I have named the language of the body? For bodybuilding (a language of the body) rejects ordinary language and yet itself constitutes a language, a method for understanding and controlling the physical which in this case is also the self.
+I can now directly talk about bodybuilding. (As if speech is ever direct.)
+The language game named the language of the body is not arbitrary. When a bodybuilder is counting, he or she is counting his or her own breath.
+Canetti speaks of the beggars of Marrakesh who possess a similar and even simpler language game: they repeat the name of God.
+In ordinary language, meaning is contextual. Whereas the cry of the beggar means nothing other than what it is; in the cry of the beggar, the impossible (as the Wittgenstein of the Tractatus and Heidegger see it) occurs in that meaning and breath become one.
+Here is the language of the body; here, perhaps, is the reason why bodybuilders experience bodybuilding as a form of meditation.
+“I understood the seduction there is in a life that reduces everything to the simplest kind of repetition,” Canetti says. A life in which meaning and essence no longer oppose each other. A life of meditation.
+“I understood what those blind beggars really are: the saints of repetition...”
 
 ## The Repetition Of The One: The Glimpse Into Chaos Or Essence
 
