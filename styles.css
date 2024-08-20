@@ -1,3 +1,4 @@
+@font-face { font-family: 'Founders Grotesk'; src: local('Founders Grotesk'); font-weight: normal; font-style: normal; }
 body { font-family: "Iowan", "Iowan Old Style", serif; font-size: medium; background-color: #ffffff; color: #000000; max-width: 78ch; line-height: 1.4; margin: 0 auto; padding: 2rem; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; }
 p { text-indent: 1ch; margin: 0; margin-top: .4rem; margin-bottom: .4rem; }
 h1,h2,h3,h4,h5,h6 { font-family: "Founders Grotesk"; margin: 0 }
