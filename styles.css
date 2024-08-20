@@ -15,5 +15,6 @@ ul { margin-top: 0 }
 
 @media (prefers-color-scheme: dark) {
 	body { background-color: #000000; color: #ffffff; }
-	a { color: #dedede;} 
+	a { color: #dedede;}
+	img { filter: invert(1); } 
 }
