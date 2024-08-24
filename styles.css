@@ -11,7 +11,7 @@ h5 { font-size: 25px; }
 h6 { font-size: 24px; }
 a { color: #404040; }
 a:hover { text-decoration: none; }
-code, pre, kbd, samp, tt { font-family: ui-monospace, SFMono-Regular, ui-monospace, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace; }
+code, pre, kbd, samp, tt { font-family: ui-monospace, SFMono-Regular, ui-monospace, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace; font-size: 23px;}
 table { border-collapse: collapse; }
 td, th { padding: 10px 20px; }
 caption { padding: 10px; }
