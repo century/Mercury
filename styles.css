@@ -15,7 +15,7 @@ table { border-collapse: collapse; }
 td, th { padding: 10px 20px; }
 caption { padding: 10px; }
 cite::before { content: "—"; }
-blockquote { font-style: italic; padding-right: 1rem; padding-left: 1rem; }
+blockquote, blockquote > p { font-style: italic; padding-right: 1rem; padding-left: 1rem; text-indent: 0;}
 img { width: 100%; height: auto; margin: 0 auto; padding: 1rem; }
 summary { font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif; font-size: 1rem; }
 input, select, button { background-color: #f6f6f6; color: #161616; border: #dadada 1px solid; padding: 2px; padding-left: 0.25rem;padding-right: 0.25rem; }
