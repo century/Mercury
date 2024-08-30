@@ -1,4 +1,4 @@
-html { font-size: 23px; font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif; margin: 0 auto; max-width: 45rem; background-color: #f6f6fbq; color: #161616; padding: 5ch;}
+html { font-size: 23px; font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif; margin: 0 auto; max-width: 45rem; background-color: #fffcf2; color: #161616; padding: 5ch;}
 p, ul, ol, a, address, input, button, select, footer { font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif; font-size: 23px; }
 p { padding: 0; text-indent: 1ch; margin-top: 0.4rem; margin-bottom: 0.4rem; }
 ul { margin-top: 0; }
@@ -18,7 +18,7 @@ cite::before { content: "—"; }
 blockquote, blockquote > p { font-style: italic; padding-right: 1rem; padding-left: 1rem; text-indent: 0;}
 img { width: 100%; height: auto; margin: 0 auto; padding: 1rem; }
 summary { font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif; font-size: 1rem; }
-input, select, button { background-color: #f6f6f6; color: #161616; border: #dadada 1px solid; padding: 2px; padding-left: 0.25rem;padding-right: 0.25rem; }
+input, select, button { background-color: #fffcf2; color: #161616; border: #dadada 1px solid; padding: 2px; padding-left: 0.25rem;padding-right: 0.25rem; }
 button { border-radius: 1rem; }
 footer { text-align: center; }
 footer::first-letter { font-size: 3rem; }
