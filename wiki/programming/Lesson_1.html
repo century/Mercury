@@ -1,0 +1,281 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Lesson 1</title>
+        <meta name="theme-color" content="#f7f6f6" media="(prefers-color-scheme: light)" />
+        <meta name="theme-color" content="#202020" media="(prefers-color-scheme: dark)" />
+        <link href="../../favicon-light.png" rel="icon" media="(prefers-color-scheme: light)" />
+        <link href="../../favicon-dark.png" rel="icon" media="(prefers-color-scheme: dark)" />
+        <link rel="stylesheet" type="text/css" href="../../styles.css" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="Menu">
+    <h2>Archive</h2>
+    <ul>
+        <li><a href="../archive/quotes.html">Quotes</a></li>
+    </ul>
+    <h2>Coevolution</h2>
+    <ul>
+        <li><a href="../coevolution/evolution-completion_idea.html">Evolution-Completion Idea</a></li>
+        <li><a href="../coevolution/olbers_paradox.html">Olbers Paradox</a></li>
+        <li><a href="../coevolution/where_you_at.html">Where You At</a></li>
+    </ul>
+    <h2>Esoteric</h2>
+    <ul>
+        <li><a href="../esoteric/body_language.html">Body Language</a></li>
+        <li><a href="../esoteric/ordo_viridis_orbis.html">Ordo Viridis Orbis</a></li>
+        <li><a href="../esoteric/punctuation.html">Punctuation</a></li>
+    </ul>
+    <h2>History</h2>
+    <ul>
+        <li><a href="../history/the_string_revolution.html">The String Revolution</a></li>
+    </ul>
+    <h2>Latin</h2>
+    <ul>
+        <li><a href="../latin/declensions.html">Declensions</a></li>
+    </ul>
+    <h2>Meta</h2>
+    <ul>
+        <li><a href="../meta/colophon.html">Colophon</a></li>
+        <li><a href="../meta/lorem_ipsum.html">Lorem Ipsum</a></li>
+    </ul>
+    <h2>Programming</h2>
+    <ul>
+        <li><a href="../programming/Lesson_1.html">Lesson 1</a></li>
+    </ul>
+    <h2>Transcendentalist</h2>
+    <ul>
+        <li><a href="../transcendentalist/civil_disobedience.html">Civil Disobedience</a></li>
+        <li><a href="../transcendentalist/walden.html">Walden</a></li>
+    </ul>
+</div>
+
+            <div class="Text">
+                <h1>Lesson 1</h1>
+                <blockquote>
+<p>Programming is a skill  </p>
+</blockquote>
+<h2>Topics:</h2>
+<ul>
+<li>Solving problems using computation  </li>
+<li>Python programming language  </li>
+<li>Organizing modular programs  </li>
+<li>Some simple but important algorithms  </li>
+<li>Algorithmic complexity  </li>
+</ul>
+<h2>Types of Knowledge</h2>
+<ul>
+<li><strong>Declarative knowledge</strong> is a statement of fact.</li>
+<li><strong>Imperative knowledge</strong> is a recipe or "how-to."</li>
+</ul>
+<h3>Numerical Example</h3>
+<ul>
+<li>Square root of a number <code>x</code> is <code>y</code> such that <code>y * y</code> is <code>x</code>.</li>
+<li>Start with a guess, <code>g</code><ol>
+<li>If <code>g * g</code> is close enough to <code>x</code>, stop and say <code>g</code> is the answer.</li>
+<li>Otherwise make a new guess by averaging <code>g</code> and <code>x / g</code>.</li>
+<li>Using the new guess, repeat the process until close enough.</li>
+</ol>
+</li>
+</ul>
+<h3>Algorithm</h3>
+<ol>
+<li>Sequence of simple steps.</li>
+<li>Flow of control process that specifies when each step is executed.</li>
+<li>A means of determining when to stop.</li>
+</ol>
+<h3>Computers are Machines that Execute Algorithms</h3>
+<ul>
+<li>Two things computers do:<ul>
+<li>Performs simple operations</li>
+<li>Remembers results</li>
+</ul>
+</li>
+<li>What kind of calculations?<ul>
+<li>Built-in to the machine, e.g. addition, subtraction</li>
+<li>Ones that you define as the programmer (made of commands built into machine)<blockquote>
+<p>A computer only does what you tell it to do.</p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul>
+<h2>History</h2>
+<ul>
+<li><strong>Fixed Program Computer</strong><ul>
+<li>Fixed set of algorithms (like a calculator)</li>
+<li>What we had until 1940s</li>
+</ul>
+</li>
+<li><strong>Stored Program Computer</strong><ul>
+<li>Machine stores and executes instructions</li>
+</ul>
+</li>
+<li>Key Insight: Programs are no different from other kinds of data.</li>
+</ul>
+<h3>Stored Program Computer</h3>
+<ul>
+<li>Sequence of instructions stored inside computer<ul>
+<li>Built from predefined set of primitive instructions<ul>
+<li>Arithmetic and logical</li>
+<li>Simple tests</li>
+<li>Moving data</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Special program (interpreter) executes each instruction in order<ul>
+<li>Use tests to change flow of control through sequence</li>
+<li>Stops when it runs out of instructions or executes a halt instruction</li>
+</ul>
+</li>
+</ul>
+<h3>Basic Primitives</h3>
+<p>Alan Turing proved that one can compute anything with just 6 primitive instructions. He imagined a tape with values and 6 instructions that would act on the tape: left (move the tape left 1), right (move the tape right 1), print (print a symbol on the current section), scan (identify any symbols on the current square), erase (remove everything on the current section), and nothing (do nothing).
+Real programming languages have a more convenient set of primitives and ways to combine primitives to make new primitives.
+Anything computable in one language is computable in any other programming language (if it has these 6 primitives in it)</p>
+<h2>Python</h2>
+<h3>Primitive Constructs</h3>
+<p><strong>English</strong>: Words<br />
+<strong>Python</strong>: Numbers, strings, simple operators </p>
+<h3>Syntax</h3>
+<p><strong>English:</strong> "cat dog boy" is <em>not</em> syntactically valid<br />
+"cat hugs boy" <em>is</em> syntactically valid<br />
+<strong>Programming Language</strong>: <code>"hi"5</code> is <em>not</em> syntactically valid<br />
+<code>"hi" * 5</code> <em>is</em> syntactically valid  </p>
+<h3>Static Semantics</h3>
+<p><strong>English</strong>: "I are hungry" syntactially valid but static semantic error  <strong>Programming Language</strong>: <code>"hi" + 5</code> is syntactially valid but static semantic error<br />
+Programs have only one meaning, but the meaning may not be what programmer intended.  </p>
+<h3>Errors</h3>
+<p><strong>Syntactic errors</strong>: Common and easily caught.
+<strong>Static Semantic Errors</strong>: Some languages check for these before running the program, and they cause unpredictable behavior.<br />
+Even if there are no "linguistic" errors, there can be different meanings than what the programmer intended; the program could stop running before reaching its goal, it could run forever, it could give a wrong answer.  </p>
+<h3>Python Programs</h3>
+<p>A program is a sequence of definitions and commands<br />
+    - Definitions evaluated
+    - Commands executed by Python interpreter in a shell
+- Commands (statements) instruct interpreter to do something
+- Can by typed directly in a <strong>shell</strong> or stored in a <strong>file</strong> that is read into the shell and evaluated</p>
+<h3>Objects</h3>
+<ul>
+<li>Programs manipulate <strong>data objects</strong>.</li>
+<li>Objects have a <strong>type</strong> that defines the kinds of things programs can o to theme<ul>
+<li><code>30</code><ul>
+<li>Is a number</li>
+<li>We can add/subtract/multiply/divide/exponentiation/etc.</li>
+</ul>
+</li>
+<li><code>"Word"</code><ul>
+<li>Is a sequence of characters (a string)</li>
+<li>We can grab substrings, but we can't divide it by a number (or subtract, add, etc.)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Scalar</strong> (cannot be subdivided):<ul>
+<li>Numbers: <code>8.3</code>, <code>2</code></li>
+<li>Truth values: <code>True</code>, <code>False</code></li>
+</ul>
+</li>
+<li><strong>Non-scalar</strong> (have internal structure that can be accessed)<ul>
+<li>Lists</li>
+<li>Dictionaries</li>
+<li>Sequence of characters: <code>"abc"</code></li>
+</ul>
+</li>
+</ul>
+<h4>Scalar Objects</h4>
+<ul>
+<li><code>int</code> ‚Äî represents integers, (<code>5</code>, <code>-100</code>)</li>
+<li><code>float</code> ‚Äî represents floating point numbers (<code>3.27</code>, <code>2.0</code>)</li>
+<li><code>bool</code> ‚Äî represents Boolean values (<code>True</code> and <code>False</code>)</li>
+<li><code>NoneType</code> ‚Äî Special and has one value, <code>None</code></li>
+<li><code>type()</code> shows type of an objcets
+    &gt; &gt; &gt; type(5)
+    int
+    &gt; &gt; &gt; type(3.0)
+    float
+There are infinite amount of ints and floats, whereas there are only two bools (<code>True</code> and <code>False</code>) and only one NoneType (<code>None</code>)  </li>
+</ul>
+<h3>Type Conversions</h3>
+<p>This does not change the object, it makes a new object (for example, if you have integer <code>3</code> in memory, casting it to a float does not <em>change</em> the integer <code>3</code> but rather creates a new float <code>3.0</code> in memory).<br />
+<code>float(3)</code> casts the int <code>3</code> into float <code>3.0</code><br />
+<code>int(3.9)</code> casts (note the truncation!) the float <code>3.9</code> to int <code>3</code><br />
+Some operations perform <em>implicit</em> casts:<br />
+<code>round(3.9)</code> returns the int <code>4</code>  </p>
+<h3>Expressions</h3>
+<p>Combine objects and operators to form expressions.
+    - <code>3 + 2</code>
+    - <code>5 / 3</code>
+An expression has a value, which as a type.
+    - <code>3 + 2</code> has value <code>5</code> and type int
+    - <code>5 / 3</code> has value <code>1.6666667</code> and type float
+Python evaluates experssions and stores the value . It doesn't store expressions.
+Syntax for a simple expression:
+<code>&lt;object&gt; &lt;operator&gt; &lt;object&gt;</code>
+Computations work left-to-right. Parentheses override left-to-rightness</p>
+<h3>Operators on <code>int</code> and <code>float</code></h3>
+<ul>
+<li><code>i + j</code> ‚Äî the sum (if both <code>i</code> and <code>j</code> are ints, result is int. Otherwise, result is float)</li>
+<li><code>i - j</code> ‚Äî the difference (if both <code>i</code> and <code>j</code> are ints, result is int. Otherwise, result is float)</li>
+<li><code>i * j</code> ‚Äî the product (if both <code>i</code> and <code>j</code> are ints, result is int. Otherwise, result is float)</li>
+<li><code>i / j</code> ‚Äî division (result is always a float)</li>
+<li><code>i // j</code> ‚Äî truncates the division to a float ( result is always an integer)</li>
+<li><code>i % j</code> ‚Äî the remainder when <code>i</code> is divided by <code>j</code> (result is always an integer)</li>
+<li><code>i ** j</code> ‚Äî <code>i</code> to the power of <code>j</code> (if both <code>i</code> and <code>j</code> are ints, result is int. Otherwise, result is float)</li>
+</ul>
+<h3>Variables</h3>
+<p><code>pi = 3.141592653594230985703</code> because we don't want to write out <code>3.141592653594230985703</code> every time we use pi.
+<strong>Math Variables</strong>: Are abstract and can represent many valuables (i.e. a + 2 = b - 1)
+<strong>CS Variables</strong>: Is bound to one single value at a given time and can be bound to an expression. (i.e. <code>m = 10</code>, <code>F = m * 9.98</code>. In this case, m = 10 and F = 99.8)</p>
+<h4>Binding Values to Variables</h4>
+<p>In Computer Science, an equal sign ( "=") is an <strong>assignment</strong>. One value to one variable. An equal sign is <strong>not</strong> equality, not ‚Äúsolve for x‚Äù.
+An assignment binds a value to a name.
+- <strong>Step 1</strong>: Compute the value on the right-hand side (the value), which is then stored in computer memory.
+- <strong>Step 2</strong>: Store it (bind it) to the left-hand side (the variable). </p>
+<h3>Abstracting Expressions</h3>
+<p>Choose variable names wisely. Code should be readable in a year (and longer) by you and others.
+<code>python
+pi = 355/113  
+radius = 2.2  
+area = pi * (radius**2)  
+circumference = pi * (radius*2)</code></p>
+<h3>Comments</h3>
+<p>Comments tell others (and yourself) what your code is doing. They start with a <code>#</code>. 
+```python</p>
+<h1>This is a comment</h1>
+<p>message = "This is code"
+```</p>
+<h3>Code Style</h3>
+<p>```python</p>
+<h1>Do calculations</h1>
+<p>a = 335/113 * (2.2*<em>2)<br />
+c = 335/113 * (2.2 </em>2)
+```
+This is pretty bad code.</p>
+<p>```python
+p = 355/113<br />
+r = 2.2  </p>
+<h1>Multiply p with r squared</h1>
+<p>a = p<em>(r</em>*2)  </p>
+<h1>Multiply p with r times 2</h1>
+<p>c = p<em>(r</em>2)
+```
+This is ok code.</p>
+<p>```python</p>
+<h1>Calculate area and circumference of a circle using an approximation for pi</h1>
+<p>pi = 355/113<br />
+radius = 2.2<br />
+area = pi * (radius**2)<br />
+circumference = pi * (radius * 2)
+```
+This is good code.</p>
+<h3>Change Bindings</h3>
+<p>You can rebind variable names using new assignment statements. Previous value may still stored in memory but lost the handle for it.</p>
+            </div>
+        </div>
+    </body>
+</html>
