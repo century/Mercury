@@ -24,8 +24,8 @@ def generate_menu(md_dir, prepend=''):
 
 # Function to convert Markdown to HTML with boilerplate
 def convert_md_to_html(md_file, wiki_dir, template):
-    # Convert Markdown to HTML content with table support
-    md = markdown.Markdown(extensions=['meta', 'tables'])
+    # Convert Markdown to HTML content with footnote support
+    md = markdown.Markdown(extensions=['meta', 'tables', 'footnotes'])
     body_html = md.convert(md_file.read_text())
     title = md.Meta.get('title', [md_file.stem.replace('_', ' ').title()])[0]
 
@@ -49,7 +49,7 @@ def build_wiki():
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>$title$</title>
-        <meta name="theme-color" content="#f7f6f6" media="(prefers-color-scheme: light)" />
+        <meta name="theme-color" content="#fffcf2" media="(prefers-color-scheme: light)" />
         <meta name="theme-color" content="#202020" media="(prefers-color-scheme: dark)" />
         <link href="../../favicon-light.png" rel="icon" media="(prefers-color-scheme: light)" />
         <link href="../../favicon-dark.png" rel="icon" media="(prefers-color-scheme: dark)" />
@@ -83,7 +83,7 @@ def build_wiki():
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Index</title>
-        <meta name="theme-color" content="#f7f6f6" media="(prefers-color-scheme: light)" />
+        <meta name="theme-color" content="#fffcf2" media="(prefers-color-scheme: light)" />
         <meta name="theme-color" content="#202020" media="(prefers-color-scheme: dark)" />
         <link href="favicon-light.png" rel="icon" media="(prefers-color-scheme: light)" />
         <link href="favicon-dark.png" rel="icon" media="(prefers-color-scheme: dark)" />
