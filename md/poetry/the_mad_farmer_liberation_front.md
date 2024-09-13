@@ -1,3 +1,9 @@
+---
+title: The Mad Farmer Liberation Front
+author: Wendell Berry
+date: 1973-01-01
+---
+
 Love the quick profit, the annual raise,
 vacation with pay. Want more
 of everything ready-made. Be afraid
