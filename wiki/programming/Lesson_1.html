@@ -4,8 +4,8 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Lesson 1</title>
-        <meta name="theme-color" content="#f7f6f6" media="(prefers-color-scheme: light)" />
-        <meta name="theme-color" content="#202020" media="(prefers-color-scheme: dark)" />
+        <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+        <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
         <link href="../../favicon.png" rel="icon"/>
         <link rel="stylesheet" type="text/css" href="../../styles.css" />
     </head>
@@ -140,8 +140,8 @@
 </li>
 </ul>
 <h3>Basic Primitives</h3>
-<p>Alan Turing proved that one can compute anything with just 6 primitive instructions. He imagined a tape with values and 6 instructions that would act on the tape: left (move the tape left 1), right (move the tape right 1), print (print a symbol on the current section), scan (identify any symbols on the current square), erase (remove everything on the current section), and nothing (do nothing).
-Real programming languages have a more convenient set of primitives and ways to combine primitives to make new primitives.
+<p>Alan Turing proved that one can compute anything with just 6 primitive instructions. He imagined a tape with values and 6 instructions that would act on the tape: left (move the tape left 1), right (move the tape right 1), print (print a symbol on the current section), scan (identify any symbols on the current square), erase (remove everything on the current section), and nothing (do nothing).<br />
+Real programming languages have a more convenient set of primitives and ways to combine primitives to make new primitives.<br />
 Anything computable in one language is computable in any other programming language (if it has these 6 primitives in it)</p>
 <h2>Python</h2>
 <h3>Primitive Constructs</h3>
@@ -156,14 +156,14 @@ Anything computable in one language is computable in any other programming langu
 <p><strong>English</strong>: "I are hungry" syntactially valid but static semantic error  <strong>Programming Language</strong>: <code>"hi" + 5</code> is syntactially valid but static semantic error<br />
 Programs have only one meaning, but the meaning may not be what programmer intended.  </p>
 <h3>Errors</h3>
-<p><strong>Syntactic errors</strong>: Common and easily caught.
+<p><strong>Syntactic errors</strong>: Common and easily caught.<br />
 <strong>Static Semantic Errors</strong>: Some languages check for these before running the program, and they cause unpredictable behavior.<br />
 Even if there are no "linguistic" errors, there can be different meanings than what the programmer intended; the program could stop running before reaching its goal, it could run forever, it could give a wrong answer.  </p>
 <h3>Python Programs</h3>
 <p>A program is a sequence of definitions and commands<br />
-    - Definitions evaluated
-    - Commands executed by Python interpreter in a shell
-- Commands (statements) instruct interpreter to do something
+    - Definitions evaluated<br />
+    - Commands executed by Python interpreter in a shell<br />
+- Commands (statements) instruct interpreter to do something<br />
 - Can by typed directly in a <strong>shell</strong> or stored in a <strong>file</strong> that is read into the shell and evaluated</p>
 <h3>Objects</h3>
 <ul>
@@ -199,11 +199,11 @@ Even if there are no "linguistic" errors, there can be different meanings than w
 <li><code>float</code> ‚Äî represents floating point numbers (<code>3.27</code>, <code>2.0</code>)</li>
 <li><code>bool</code> ‚Äî represents Boolean values (<code>True</code> and <code>False</code>)</li>
 <li><code>NoneType</code> ‚Äî Special and has one value, <code>None</code></li>
-<li><code>type()</code> shows type of an objcets
-    &gt; &gt; &gt; type(5)
-    int
-    &gt; &gt; &gt; type(3.0)
-    float
+<li><code>type()</code> shows type of an objcets<br />
+    &gt; &gt; &gt; type(5)<br />
+    int<br />
+    &gt; &gt; &gt; type(3.0)<br />
+    float<br />
 There are infinite amount of ints and floats, whereas there are only two bools (<code>True</code> and <code>False</code>) and only one NoneType (<code>None</code>)  </li>
 </ul>
 <h3>Type Conversions</h3>
@@ -213,15 +213,15 @@ There are infinite amount of ints and floats, whereas there are only two bools (
 Some operations perform <em>implicit</em> casts:<br />
 <code>round(3.9)</code> returns the int <code>4</code>  </p>
 <h3>Expressions</h3>
-<p>Combine objects and operators to form expressions.
-    - <code>3 + 2</code>
-    - <code>5 / 3</code>
-An expression has a value, which as a type.
-    - <code>3 + 2</code> has value <code>5</code> and type int
-    - <code>5 / 3</code> has value <code>1.6666667</code> and type float
-Python evaluates experssions and stores the value . It doesn't store expressions.
-Syntax for a simple expression:
-<code>&lt;object&gt; &lt;operator&gt; &lt;object&gt;</code>
+<p>Combine objects and operators to form expressions.<br />
+    - <code>3 + 2</code><br />
+    - <code>5 / 3</code><br />
+An expression has a value, which as a type.<br />
+    - <code>3 + 2</code> has value <code>5</code> and type int<br />
+    - <code>5 / 3</code> has value <code>1.6666667</code> and type float<br />
+Python evaluates experssions and stores the value . It doesn't store expressions.<br />
+Syntax for a simple expression:<br />
+<code>&lt;object&gt; &lt;operator&gt; &lt;object&gt;</code><br />
 Computations work left-to-right. Parentheses override left-to-rightness</p>
 <h3>Operators on <code>int</code> and <code>float</code></h3>
 <ul>
@@ -234,50 +234,50 @@ Computations work left-to-right. Parentheses override left-to-rightness</p>
 <li><code>i ** j</code> ‚Äî <code>i</code> to the power of <code>j</code> (if both <code>i</code> and <code>j</code> are ints, result is int. Otherwise, result is float)</li>
 </ul>
 <h3>Variables</h3>
-<p><code>pi = 3.141592653594230985703</code> because we don't want to write out <code>3.141592653594230985703</code> every time we use pi.
-<strong>Math Variables</strong>: Are abstract and can represent many valuables (i.e. a + 2 = b - 1)
+<p><code>pi = 3.141592653594230985703</code> because we don't want to write out <code>3.141592653594230985703</code> every time we use pi.<br />
+<strong>Math Variables</strong>: Are abstract and can represent many valuables (i.e. a + 2 = b - 1)<br />
 <strong>CS Variables</strong>: Is bound to one single value at a given time and can be bound to an expression. (i.e. <code>m = 10</code>, <code>F = m * 9.98</code>. In this case, m = 10 and F = 99.8)</p>
 <h4>Binding Values to Variables</h4>
-<p>In Computer Science, an equal sign ( "=") is an <strong>assignment</strong>. One value to one variable. An equal sign is <strong>not</strong> equality, not ‚Äúsolve for x‚Äù.
-An assignment binds a value to a name.
-- <strong>Step 1</strong>: Compute the value on the right-hand side (the value), which is then stored in computer memory.
+<p>In Computer Science, an equal sign ( "=") is an <strong>assignment</strong>. One value to one variable. An equal sign is <strong>not</strong> equality, not ‚Äúsolve for x‚Äù.<br />
+An assignment binds a value to a name.<br />
+- <strong>Step 1</strong>: Compute the value on the right-hand side (the value), which is then stored in computer memory.<br />
 - <strong>Step 2</strong>: Store it (bind it) to the left-hand side (the variable). </p>
 <h3>Abstracting Expressions</h3>
-<p>Choose variable names wisely. Code should be readable in a year (and longer) by you and others.
+<p>Choose variable names wisely. Code should be readable in a year (and longer) by you and others.<br />
 <code>python
 pi = 355/113  
 radius = 2.2  
 area = pi * (radius**2)  
 circumference = pi * (radius*2)</code></p>
 <h3>Comments</h3>
-<p>Comments tell others (and yourself) what your code is doing. They start with a <code>#</code>. 
+<p>Comments tell others (and yourself) what your code is doing. They start with a <code>#</code>. <br />
 ```python</p>
 <h1>This is a comment</h1>
-<p>message = "This is code"
+<p>message = "This is code"<br />
 ```</p>
 <h3>Code Style</h3>
 <p>```python</p>
 <h1>Do calculations</h1>
 <p>a = 335/113 * (2.2*<em>2)<br />
-c = 335/113 * (2.2 </em>2)
-```
+c = 335/113 * (2.2 </em>2)<br />
+```<br />
 This is pretty bad code.</p>
-<p>```python
+<p>```python<br />
 p = 355/113<br />
 r = 2.2  </p>
 <h1>Multiply p with r squared</h1>
 <p>a = p<em>(r</em>*2)  </p>
 <h1>Multiply p with r times 2</h1>
-<p>c = p<em>(r</em>2)
-```
+<p>c = p<em>(r</em>2)<br />
+```<br />
 This is ok code.</p>
 <p>```python</p>
 <h1>Calculate area and circumference of a circle using an approximation for pi</h1>
 <p>pi = 355/113<br />
 radius = 2.2<br />
 area = pi * (radius**2)<br />
-circumference = pi * (radius * 2)
-```
+circumference = pi * (radius * 2)<br />
+```<br />
 This is good code.</p>
 <h3>Change Bindings</h3>
 <p>You can rebind variable names using new assignment statements. Previous value may still stored in memory but lost the handle for it.</p>
