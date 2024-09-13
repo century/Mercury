@@ -1,5 +1,5 @@
 ---
-title: ii Jupiter Saves his Son
+title: II Jupiter Saves his Son
 author: Ritchie
 date: 2024-09-04
 ---

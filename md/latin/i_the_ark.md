@@ -1,5 +1,5 @@
 ---
-title: i The Ark
+title: I The Ark
 author: Ritchie
 date: 2024-09-04
 ---

@@ -1,5 +1,5 @@
 ---
-title: iii Perseus Is Sent On His Travels
+title: III Perseus Is Sent On His Travels
 author: Ritchie
 date: 2024-09-04
 ---
