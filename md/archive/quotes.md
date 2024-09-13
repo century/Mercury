@@ -21,3 +21,6 @@ date: 2024-07-06
 
 > "The thing about rules is that they often work best when broken."
 > — Sean Adams
+
+> "A little heap of dust, A little streak of rust, A stone without a name—Lo! hero, sword and fame."
+> Ambrose Bierce
