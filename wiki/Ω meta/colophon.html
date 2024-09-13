@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>$title$</title>
+        <title>Colophon</title>
         <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
         <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
         <link href="../../favicon.png" rel="icon"/>
@@ -60,8 +60,18 @@
 </div>
 
             <div class="Text">
-                <h1>$title$</h1>
-                $body$
+                <h1>Colophon</h1>
+                <h2>Building</h2>
+<ol>
+<li>Edit the files in <code>/markdown</code>.</li>
+<li>In <code>/</code>, do <code>./build.sh</code> to generate HTML files.</li>
+<li>Update <code>index.html</code> to include the new file.</li>
+<li>Do <code>./commit.sh</code> to commit the changes to the repository.</li>
+</ol>
+<h2>Metadata</h2>
+<p><code>title: # First header
+author: # Whoever wrote the piece
+date: # When you initially wrote the piece</code></p>
             </div>
         </div>
     </body>
