@@ -1,4 +1,10 @@
-Perseus igitur multōs annōs ibi habitābat, et cum mātre suā vītam beātam agēbat. At Polydectēs Danaēn māgnopere amābat, atque eam in mātrimōnium dūcere volēbat. Hōc tamen cōnsilium Perseō minimē grātum erat. Polydectēs igitur Perseum dīmittere cōnstituit. Tum iuvenem ad sē vocāvit et haec dīxit: 
+---
+title: iii Perseus Is Sent On His Travels
+author: Ritchie
+date: 2024-09-04
+---
+
+Perseus igitur multōs annōs ibi habitābat, et cum mātre suā vītam beātam agēbat. At Polydectēs Danaēn māgnopere amābat, atque eam in mātrimōnium dūcere volēbat. Hōc tamen cōnsilium Perseō minimē grātum erat. Polydectēs igitur Perseum dīmittere cōnstituit. Tum iuvenem ad sē vocāvit et haec dīxit:
 "Turpe est hanc īgnāvam vītam agere; iam dūdum tū adulēscēns es.
 Quō ūsque hīc manēbis? Tempus est arma capere et virtūtem praestāre. Hinc abī, et caput Medūsae mihi refer."
 
