@@ -3,6 +3,7 @@ title: On the Duty of Civil Disobedience
 author: Henry David Thoreau
 date: 1849-05-01
 ---
+
 I heartily accept the motto,—“That government is best which governs least;” and I should like to see it acted up to more rapidly and systematically. Carried out, it finally amounts to this, which also I believe—“That government is best which governs not at all;” and when men are prepared for it, that will be the kind of government which they will have. Government is at best but an expedient; but most governments are usually, and all governments are sometimes, inexpedient. The objections which have been brought against a standing army, and they are many and weighty, and deserve to prevail, may also at last be brought against a standing government. The standing army is only an arm of the standing government. The government itself, which is only the mode which the people have chosen to execute their will, is equally liable to be abused and perverted before the people can act through it. Witness the present Mexican war, the work of comparatively a few individuals using the standing government as their tool; for, in the outset, the people would not have consented to this measure.
 
 This American government,—what is it but a tradition, though a recent one, endeavoring to transmit itself unimpaired to posterity, but each instant losing some of its integrity? It has not the vitality and force of a single living man; for a single man can bend it to his will. It is a sort of wooden gun to the people themselves; and, if ever they should use it in earnest as a real one against each other, it will surely split. But it is not the less necessary for this; for the people must have some complicated machinery or other, and hear its din, to satisfy that idea of government which they have. Governments show thus how successfully men can be imposed on, even impose on themselves, for their own advantage. It is excellent, we must all allow; yet this government never of itself furthered any enterprise, but by the alacrity with which it got out of its way. It does not keep the country free. It does not settle the West. It does not educate. The character inherent in the American people has done all that has been accomplished; and it would have done somewhat more, if the government had not sometimes got in its way. For government is an expedient, by which men would fain succeed in letting one another alone; and, as has been said, when it is most expedient, the governed are most let alone by it. Trade and commerce, if they were not made of India rubber, would never manage to bounce over obstacles which legislators are continually putting in their way; and, if one were to judge these men wholly by the effects of their actions, and not partly by their intentions, they would deserve to be classed and punished with those mischievous persons who put obstructions on the railroads.
@@ -12,16 +13,16 @@ But, to speak practically and as a citizen, unlike those who call themselves no-
 After all, the practical reason why, when the power is once in the hands of the people, a majority are permitted, and for a long period continue, to rule, is not because they are most likely to be in the right, nor because this seems fairest to the minority, but because they are physically the strongest. But a government in which the majority rule in all cases can not be based on justice, even as far as men understand it. Can there not be a government in which the majorities do not virtually decide right and wrong, but conscience?—in which majorities decide only those questions to which the rule of expediency is applicable? Must the citizen ever for a moment, or in the least degree, resign his conscience to the legislator? Why has every man a conscience, then? I think that we should be men first, and subjects afterward. It is not desirable to cultivate a respect for the law, so much as for the right. The only obligation which I have a right to assume, is to do at any time what I think right. It is truly enough said that a corporation has no conscience; but a corporation of conscientious men is a corporation with a conscience. Law never made men a whit more just; and, by means of their respect for it, even the well-disposed are daily made the agents of injustice. A common and natural result of an undue respect for the law is, that you may see a file of soldiers, colonel, captain, corporal, privates, powder-monkeys and all, marching in admirable order over hill and dale to the wars, against their wills, aye, against their common sense and consciences, which makes it very steep marching indeed, and produces a palpitation of the heart. They have no doubt that it is a damnable business in which they are concerned; they are all peaceably inclined. Now, what are they? Men at all? or small movable forts and magazines, at the service of some unscrupulous man in power? Visit the Navy Yard, and behold a marine, such a man as an American government can make, or such as it can make a man with its black arts, a mere shadow and reminiscence of humanity, a man laid out alive and standing, and already, as one may say, buried under arms with funeral accompaniment, though it may be
 
 > “Not a drum was heard, not a funeral note,
-  As his corpse to the ramparts we hurried;
-  Not a soldier discharged his farewell shot
-  O’er the grave where our hero we buried.”
+> As his corpse to the ramparts we hurried;
+> Not a soldier discharged his farewell shot
+> O’er the grave where our hero we buried.”
 
 The mass of men serve the State thus, not as men mainly, but as machines, with their bodies. They are the standing army, and the militia, jailers, constables, posse comitatus, &c. In most cases there is no free exercise whatever of the judgment or of the moral sense; but they put themselves on a level with wood and earth and stones; and wooden men can perhaps be manufactured that will serve the purpose as well. Such command no more respect than men of straw, or a lump of dirt. They have the same sort of worth only as horses and dogs. Yet such as these even are commonly esteemed good citizens. Others, as most legislators, politicians, lawyers, ministers, and office-holders, serve the state chiefly with their heads; and, as they rarely make any moral distinctions, they are as likely to serve the devil, without intending it, as God. A very few, as heroes, patriots, martyrs, reformers in the great sense, and men, serve the State with their consciences also, and so necessarily resist it for the most part; and they are commonly treated by it as enemies. A wise man will only be useful as a man, and will not submit to be “clay,” and “stop a hole to keep the wind away,” but leave that office to his dust at least:
 
 > “I am too high-born to be propertied,
-  To be a secondary at control,
-  Or useful serving-man and instrument
-  To any sovereign state throughout the world.”
+> To be a secondary at control,
+> Or useful serving-man and instrument
+> To any sovereign state throughout the world.”
 
 He who gives himself entirely to his fellow-men appears to them useless and selfish; but he who gives himself partially to them is pronounced a benefactor and philanthropist.
 
@@ -34,7 +35,7 @@ Paley, a common authority with many on moral questions, in his chapter on the �
 In their practice, nations agree with Paley; but does anyone think that Massachusetts does exactly what is right at the present crisis?
 
 > “A drab of state, a cloth-o’-silver slut,
-  To have her train borne up, and her soul trail in the dirt.”
+> To have her train borne up, and her soul trail in the dirt.”
 
 Practically speaking, the opponents to a reform in Massachusetts are not a hundred thousand politicians at the South, but a hundred thousand merchants and farmers here, who are more interested in commerce and agriculture than they are in humanity, and are not prepared to do justice to the slave and to Mexico, cost what it may. I quarrel not with far-off foes, but with those who, near at home, co-operate with, and do the bidding of those far away, and without whom the latter would be harmless. We are accustomed to say, that the mass of men are unprepared; but improvement is slow, because the few are not materially wiser or better than the many. It is not so important that many should be as good as you, as that there be some absolute goodness somewhere; for that will leaven the whole lump. There are thousands who are in opinion opposed to slavery and to the war, who yet in effect do nothing to put an end to them; who, esteeming themselves children of Washington and Franklin, sit down with their hands in their pockets, and say that they know not what to do, and do nothing; who even postpone the question of freedom to the question of free-trade, and quietly read the prices-current along with the latest advices from Mexico, after dinner, and, it may be, fall asleep over them both. What is the price-current of an honest man and patriot today? They hesitate, and they regret, and sometimes they petition; but they do nothing in earnest and with effect. They will wait, well disposed, for others to remedy the evil, that they may no longer have it to regret. At most, they give only a cheap vote, and a feeble countenance and Godspeed, to the right, as it goes by them. There are nine hundred and ninety-nine patrons of virtue to one virtuous man; but it is easier to deal with the real possessor of a thing than with the temporary guardian of it.
 
@@ -98,11 +99,11 @@ I think sometimes, Why, this people mean well; they are only ignorant; they woul
 I do not wish to quarrel with any man or nation. I do not wish to split hairs, to make fine distinctions, or set myself up as better than my neighbors. I seek rather, I may say, even an excuse for conforming to the laws of the land. I am but too ready to conform to them. Indeed I have reason to suspect myself on this head; and each year, as the tax-gatherer comes round, I find myself disposed to review the acts and position of the general and state governments, and the spirit of the people to discover a pretext for conformity.
 
 > “We must affect our country as our parents,
-  And if at any time we alienate
-  Out love of industry from doing it honor,
-  We must respect effects and teach the soul
-  Matter of conscience and religion,
-  And not desire of rule or benefit.”
+> And if at any time we alienate
+> Out love of industry from doing it honor,
+> We must respect effects and teach the soul
+> Matter of conscience and religion,
+> And not desire of rule or benefit.”
 
 I believe that the State will soon be able to take all my work of this sort out of my hands, and then I shall be no better patriot than my fellow-countrymen. Seen from a lower point of view, the Constitution, with all its faults, is very good; the law and the courts are very respectable; even this State and this American government are, in many respects, very admirable, and rare things, to be thankful for, such as a great many have described them; seen from a higher still, and the highest, who shall say what they are, or that they are worth looking at or thinking of at all?
 
