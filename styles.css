@@ -9,7 +9,6 @@
 
 .Menu {
 	grid-area: Menu;
-	font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .Text {
