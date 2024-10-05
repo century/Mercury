@@ -95,6 +95,9 @@ def build_wiki():
             </div>
         </div>
     </body>
+    <footer>
+    <p><img src="../../PublicDomain.png">No rights reserved</p>
+    </footer>
 </html>
 """
     # Write the index.html file
