@@ -103,3 +103,7 @@ blockquote {
 		color: white;
 	}
 }
+
+span {
+	vertical-align: middle;
+}
