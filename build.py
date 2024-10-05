@@ -51,7 +51,6 @@ def build_wiki():
         <title>$title$</title>
         <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
         <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
-        <link href="../../favicon.png" rel="icon"/>
         <link rel="stylesheet" type="text/css" href="../../styles.css" />
     </head>
     <body>
@@ -63,6 +62,9 @@ def build_wiki():
             </div>
         </div>
     </body>
+    <footer>
+    <p><img src="../../PublicDomain.png">No rights reserved</p>
+    </footer>
 </html>
 """
     # Write the template with dynamic menu to the template file
@@ -84,7 +86,6 @@ def build_wiki():
         <title>Index</title>
         <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
         <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
-        <link href="favicon.png" rel="icon" />
         <link rel="stylesheet" type="text/css" href="styles.css" />
     </head>
     <body>
