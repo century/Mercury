@@ -19,8 +19,7 @@
 html {
 	background-color: white;
 	color: black;
-	font-family: "Iowan Old Style", "Palatino Linotype", "URW Palladio L",
-		P052, serif;
+	font-family: "Iowan Old Style", "Palatino Linotype", "URW Palladio L", P052, serif;
 	font-size: 1.3rem;
 	padding: 1rem;
 	-webkit-font-smoothing: antialiased;
@@ -55,15 +54,15 @@ h6 {
 a {
 	color: black;
 }
-
+/*
 image,
 img {
 	max-width: 100%;
 	padding: 1rem;
 	filter: contrast(10000%) brightness(100%);
 	mix-blend-mode: multiply;
-}
-
+}*/
+/*
 img::after,
 image::after {
 	content: "";
@@ -76,12 +75,12 @@ image::after {
 	mix-blend-mode: color;
 	pointer-events: none;
 }
-
+*/
 code,
 pre,
 tt {
-	font-family: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo,
-		Consolas, "DejaVu Sans Mono", monospace;
+	font-family: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono",
+		monospace;
 }
 
 blockquote {
@@ -92,8 +91,7 @@ blockquote {
 	html {
 		background-color: black;
 		color: white;
-		font-family: system-ui, -apple-system, BlinkMacSystemFont,
-			sans-serif;
+		font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 		font-size: 1.3rem;
 		padding: 1rem;
 		-webkit-font-smoothing: antialiased;

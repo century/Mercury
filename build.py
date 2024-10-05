@@ -63,7 +63,7 @@ def build_wiki():
         </div>
     </body>
     <footer>
-    <p><img src="../../PublicDomain.png">No rights reserved</p>
+    <p><img src="../../PublicDomain.png"> No rights reserved</p>
     </footer>
 </html>
 """
@@ -96,7 +96,7 @@ def build_wiki():
         </div>
     </body>
     <footer>
-    <p><img src="../../PublicDomain.png">No rights reserved</p>
+    <p><img src="PublicDomain.png"> No rights reserved</p>
     </footer>
 </html>
 """
