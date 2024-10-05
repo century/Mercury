@@ -1,6 +1,6 @@
 ---
 title: Quotes
-author: Grant
+author: Julian Maroux
 date: 2024-07-06
 ---
 
