@@ -96,7 +96,9 @@ def build_wiki():
         </div>
     </body>
     <footer>
-    <img src="PublicDomain.png"><span> No rights reserved</span>
+    <img src="PublicDomain.png"><span> No rights reserved</span> <a href="https://webring.xxiivv.com/#your-id-here" target="_blank" rel="noopener">
+  <img src="https://webring.xxiivv.com/icon.black.svg" alt="XXIIVV webring"/>
+</a>
     </footer>
 </html>
 """
