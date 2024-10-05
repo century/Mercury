@@ -108,3 +108,7 @@ span,
 img {
 	vertical-align: middle;
 }
+
+a img {
+	height: 2rem;
+}
