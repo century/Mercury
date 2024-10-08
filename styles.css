@@ -19,7 +19,6 @@
 html {
 	background-color: white;
 	color: black;
-	font-family: "Iowan Old Style", "Palatino Linotype", "URW Palladio L", P052, serif;
 	font-size: 1.3rem;
 	padding: 1rem;
 	-webkit-font-smoothing: antialiased;
@@ -79,8 +78,7 @@ image::after {
 code,
 pre,
 tt {
-	font-family: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono",
-		monospace;
+	font-family: monospace;
 }
 
 blockquote {
@@ -91,7 +89,6 @@ blockquote {
 	html {
 		background-color: black;
 		color: white;
-		font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 		font-size: 1.3rem;
 		padding: 1rem;
 		-webkit-font-smoothing: antialiased;
