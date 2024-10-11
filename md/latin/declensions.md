@@ -4,14 +4,14 @@ author: Grant
 date: 2024-07-22
 ---
 ## 1st Declension
-|      Case|Singular|Plural|
-|---------:|:-------|:-----|
-|Nominative|-a      |-ae   |
-|  Genitive|-ae     |-ārum |
-|    Dative|-ae     |-īs   |
-|Accusative|-am     |-as   |
-|  Ablative|-ā      |-īs   |
-|  Vocative|-a      |-ae   |
+|       Case | Singular | Plural |
+| ---------: | :------- | :----- |
+| Nominative | -a       | -ae    |
+|   Genitive | -ae      | -ārum  |
+|     Dative | -ae      | -īs    |
+| Accusative | -am      | -as    |
+|   Ablative | -ā       | -īs    |
+|   Vocative | -a       | -ae    |
 
 ## 2nd Declension
 
