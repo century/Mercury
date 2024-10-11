@@ -16,14 +16,14 @@ date: 2024-07-22
 ## 2nd Declension
 
 ### -us, -ī (*m*)
-|       Case|Singular|Plural|
-|---------:|:--------|:-----|
-|Nominative|-us      |-ī    |
-|  Genitive|-ī       |-ōrum |
-|    Dative|-ō       |-īs   |
-|Accusative|-um      |-ōs   |
-|  Ablative|-ō       |-īs   |
-|  Vocative|-e       |-ī    |
+|       Case | Singular | Plural |
+| ---------: | :------- | :----- |
+| Nominative | -us      | -ī     |
+|   Genitive | -ī       | -ōrum  |
+|     Dative | -ō       | -īs    |
+| Accusative | -um      | -ōs    |
+|   Ablative | -ō       | -īs    |
+|   Vocative | -e       | -ī     |
 
 ## -r, -er (*m*)
 |       Case|Singular|Plural|
