@@ -4,6 +4,7 @@ author: Grant
 date: 2024-07-22
 ---
 ## 1st Declension
+
 |       Case | Singular | Plural |
 | ---------: | :------- | :----- |
 | Nominative | -a       | -ae    |
