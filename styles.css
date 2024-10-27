@@ -75,6 +75,12 @@ a img {
 	height: 2rem;
 }
 
+img {
+	max-width: 90%;
+	margin: 0 auto;
+	display: block;
+}
+
 @media (prefers-color-scheme: dark) {
 	html {
 		background-color: black;
