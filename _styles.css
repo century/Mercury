@@ -1,0 +1,147 @@
+:root {
+	line-height: 1.5;
+	font-size: 16px;
+	font-family: sans-serif;
+	--a: 12px;
+	--b: #fff;
+	--c: #333;
+	--o: 22px;
+	--u: 10px;
+}
+
+@media only screen and (max-width: 720px) {
+	:root {
+		--a: 8px;
+	}
+}
+
+body {
+	color: var(--c);
+	background-color: var(--b);
+	max-width: 80ch;
+	margin: auto;
+}
+
+h1,
+nav {
+	text-align: center;
+}
+
+h1 {
+	font-size: 1.5rem;
+	margin: 1em 0 2em 0;
+}
+
+h2 {
+	margin-left: calc(var(--a) * -6);
+	margin-bottom: 1.5em;
+	font-size: 1.125rem;
+}
+
+h3 {
+	margin-left: calc(var(--a) * -5);
+	font-size: 1.125em;
+	font-weight: normal;
+	font-style: italic;
+}
+
+h4 {
+	margin-left: calc(var(--a) * -4);
+	font-size: 1rem;
+}
+
+h5 {
+	margin-left: calc(var(--a) * -3);
+	font-size: 1rem;
+	font-style: italic;
+}
+
+h6 {
+	margin-left: calc(var(--a) * -2);
+	font-size: 1rem;
+}
+
+dd,
+dl,
+h3,
+h4,
+h5,
+h6,
+ol,
+p,
+pre,
+ul {
+	margin: 0 0 1em;
+}
+
+a {
+	color: var(--c);
+}
+
+dl {
+	display: block;
+	grid-template-columns: calc(var(--a) * 11) 1fr;
+}
+
+dt {
+	float: left;
+	clear: both;
+	vertical-align: top;
+	margin-right: var(--a);
+}
+
+dd {
+	float: right;
+	width: calc(var(--a) * 33);
+}
+
+code {
+	font-family: Courier, monospace;
+	letter-spacing: -0.5px;
+}
+
+ol {
+	padding-left: var(--o);
+}
+
+ol li {
+	padding-left: calc(var(--a) * 6 - var(--o));
+}
+
+ul {
+	padding-left: var(--u);
+	list-style-type: "–";
+}
+
+ul li {
+	padding-left: calc(var(--a) * 6 - var(--u));
+}
+
+pre {
+	width: 100%;
+	overflow: scroll;
+}
+
+img {
+	max-width: 100%;
+}
+
+footer {
+	border-top: 1px solid var(--c);
+	text-align: right;
+	padding-top: 6px;
+}
+
+mark {
+	color: inherit;
+	background: none;
+	font-weight: bold;
+}
+
+span.date {
+	color: #aaa;
+}
+
+blockquote {
+	font-style: italic;
+}
