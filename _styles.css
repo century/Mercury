@@ -1,23 +1,9 @@
-:root {
+body {
 	line-height: 1.5;
 	font-size: 16px;
 	font-family: sans-serif;
-	--a: 12px;
-	--b: #fff;
-	--c: #333;
-	--o: 22px;
-	--u: 10px;
-}
-
-@media only screen and (max-width: 720px) {
-	:root {
-		--a: 8px;
-	}
-}
-
-body {
-	color: var(--c);
-	background-color: var(--b);
+	color: #333;
+	background-color: #fff;
 	max-width: 80ch;
 	margin: auto;
 }
@@ -33,31 +19,31 @@ h1 {
 }
 
 h2 {
-	margin-left: calc(var(--a) * -6);
+	margin-left: -4.5rem;
 	margin-bottom: 1.5em;
 	font-size: 1.125rem;
 }
 
 h3 {
-	margin-left: calc(var(--a) * -5);
+	margin-left: -3.75rem;
 	font-size: 1.125em;
 	font-weight: normal;
 	font-style: italic;
 }
 
 h4 {
-	margin-left: calc(var(--a) * -4);
+	margin-left: -3rem;
 	font-size: 1rem;
 }
 
 h5 {
-	margin-left: calc(var(--a) * -3);
+	margin-left: -2.25;
 	font-size: 1rem;
 	font-style: italic;
 }
 
 h6 {
-	margin-left: calc(var(--a) * -2);
+	margin-left: -1.5rem;
 	font-size: 1rem;
 }
 
@@ -75,24 +61,7 @@ ul {
 }
 
 a {
-	color: var(--c);
-}
-
-dl {
-	display: block;
-	grid-template-columns: calc(var(--a) * 11) 1fr;
-}
-
-dt {
-	float: left;
-	clear: both;
-	vertical-align: top;
-	margin-right: var(--a);
-}
-
-dd {
-	float: right;
-	width: calc(var(--a) * 33);
+	color: #333;
 }
 
 code {
@@ -101,20 +70,20 @@ code {
 }
 
 ol {
-	padding-left: var(--o);
+	padding-left: 1.375rem;
 }
 
 ol li {
-	padding-left: calc(var(--a) * 6 - var(--o));
+	padding-left: 3.125rem;
 }
 
 ul {
-	padding-left: var(--u);
+	padding-left: 0.625rem;
 	list-style-type: "–";
 }
 
 ul li {
-	padding-left: calc(var(--a) * 6 - var(--u));
+	padding-left: 3.875rem;
 }
 
 pre {
@@ -127,7 +96,7 @@ img {
 }
 
 footer {
-	border-top: 1px solid var(--c);
+	border-top: 1px solid #333;
 	text-align: right;
 	padding-top: 6px;
 }
