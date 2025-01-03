@@ -6,6 +6,7 @@ body {
 	background-color: #fff;
 	max-width: 80ch;
 	margin: auto;
+	padding-bottom: 2rem;
 }
 
 h1,
@@ -97,8 +98,8 @@ img {
 
 footer {
 	border-top: 1px solid #333;
-	text-align: right;
 	padding-top: 6px;
+	margin-top: 1rem;
 }
 
 mark {
