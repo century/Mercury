@@ -15,7 +15,7 @@ nav {
 
 h1 {
 	font-size: 1.5rem;
-	margin: 1em 0 2em 0;
+	margin: 1em 0 0 0;
 }
 
 h2 {
@@ -134,4 +134,10 @@ table td {
 
 th {
 	padding-bottom: 8px;
+}
+
+.subheading {
+	color: #aaa;
+	text-align: center;
+	margin-bottom: 2rem;
 }
